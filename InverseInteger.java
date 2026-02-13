@@ -26,7 +26,6 @@ public class InverseInteger {
     public static void main(String[] var0) {
        InverseInteger x = new InverseInteger();
        System.out.println(x.reverse(123));
-       System.out.println(x.reverse(-456));
        System.out.println(x.reverse(1000000003));
     }
 }
